@@ -1,0 +1,80 @@
+Software
+*Set of programs.
+*Programs-Set of instructions                    
+*We can't touch. We can feel.
+*Controls the computer hardware parts.    
+*Makes the hardware operational.
+
+Two types:
+*Software those are installed in computer
+*Software those are worked in browser
+
+Testing: Software those are installed in computer
+1]OS Compatibilty Test
+2]Location Test & Upgrade Test
+3]Un-installation Test (check trial period also)
+
+Testing: Software those are worked in browser
+1]Usability Test
+2]Link, Navigation Test
+3]Security Test
+4]Browser Compatibility Test
+5]Validation Test
+6]Performance Testing
+
+*Business Analyst
+*Business Requirement Specification
+
+-------------------------
+1]Business Requirement Specification - Agreement Between Client & IT Company
+
+2]Planning - Agreement 
+*work -> who?, when?, what?, how?
+*developers, testers -> need any training?
+*need any software? 
+*If we don't have time for complete the project, hire & train programmer & tester.
+
+3]Testing Strategy - Agreement
+*Derived from BRS document
+*What we done before getting code from developers
+*Risk and issues in testing
+
+4]Test case:
+*written based on BRS
+*Excel, Liber Calc - Table structure
+*Test Suite & Test case
+Ex:insta -> login, post, reels, logout, notification, followers
+Test Suite: Login
+Test Case:  Correct Username, Correct Password
+            Wrong Username, Wrong Password
+		    Correct Username, Wrong Password
+		    Wrong Username, Correct Password
+
+Testcase written with strategy
+*Boundary Value Analysis -> Mble Number
+*Equivalence Class Partitioning -> 2 Street, Blood donor age
+*State Transition Test -> ATM number
+
+5]Requirements Traceability Matrix - Document
+*Before checking the test case with code, we want to make sure test cases are completed or not
+*Compare BRS & Testcase - Create table structure - Decision Table
+*Forward traceability & Reverse traceability
+
+6]Required software for testing
+
+7]Developers test the code & submitted to testing team -> Food taste
+
+8]Integration Testing
+*Stub
+*Driver
+*Both are created for temporary use
+
+9]Regression Testing
+
+Block Box Testing
+White Box Testing 
+
+-----------------------------
+
+
+
